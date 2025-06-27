@@ -26,9 +26,16 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelica.luiz@discente.uenp.edu.br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/) [![Lattes](https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7640491751338541) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelicaliutti)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelica.luiz@discente.uenp.edu.br)
+  
+  [![Lattes](https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7640491751338541)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelicaliutti)
 
 </div>
+
 ---
 
 <div align="center">
