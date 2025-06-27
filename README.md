@@ -1,9 +1,7 @@
-# 🦕 bem vindo(a)!
-
 <div align="center">
-  <img src="https://i.ibb.co/4W44x4P/github-stats-style.png" alt="Aninha-dev's GitHub Stats" />
-</div>
-
+# 🦕 bem vindo(a)!
+<\div>
+  
 <div align="center">
   👩🏻‍💻 sou estudante do segundo ano de ciência da computação na uenp  <br>
   🫀 apaixonada por tecnologia e a forma como ela pode ajudar as pessoas <br>
@@ -19,18 +17,18 @@
 
 ## 🐈‍⬛ onde me encontrar
 <p align="center">
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/)
-  [![lattes](https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7640491751338541)
-  [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelica.luiz@discente.uenp.edu.br)
-  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelicaliutti)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/)
+[![lattes](https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7640491751338541)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelica.luiz@discente.uenp.edu.br)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelicaliutti)
 </p>
 
 ---
 
 <p align="center">
-  _"um ser humano deve transformar <br>
-  informação em inteligência ou conhecimento. <br>
-  tendemos a esquecer que nenhum computador <br>
-  jamais fará uma nova pergunta." <br>
-   -grace hopper._
+_"um ser humano deve transformar <br>
+informação em inteligência ou conhecimento. <br>
+tendemos a esquecer que nenhum computador <br>
+jamais fará uma nova pergunta." <br>
+  -grace hopper._
 </p>
