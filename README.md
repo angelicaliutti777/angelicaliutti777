@@ -5,8 +5,11 @@
 📚​ atualmente me aprimorando em **c**, **python** e **desenvolvimento web no geral**
 
 ## ⚙️​ github stats
-![angelicaliutti777's github stats](https://github-readme-stats.vercel.app/api?username=angelicaliutti777&show_icons=true&theme=dracula&cache_seconds=0)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaliutti777&layout=compact&theme=dracula&cache_seconds=0)
+<p align="center" style="background-color:#000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaliutti777&layout=compact&theme=dracula&cache_seconds=0" />
+  <br>
+  <img src="https://media.tenor.com/I6kLwYeoWvIAAAAi/hello-kitty.gif" alt="Catkiss" width="90" />
+</p>
 
 ## 🐈‍⬛ onde me encontrar
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/)
