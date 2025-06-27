@@ -24,15 +24,23 @@
 
 ## 🐈‍⬛ onde me encontrar
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelica.luiz@discente.uenp.edu.br)
-  
-  [![Lattes](https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/7640491751338541)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/)
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelicaliutti)
+  <a href="mailto:angelica.luiz@discente.uenp.edu.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="http://lattes.cnpq.br/7640491751338541" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Lattes-0074D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/angélica-luiza-liutti-luiz-448885304/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://instagram.com/angelicaliutti" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 
