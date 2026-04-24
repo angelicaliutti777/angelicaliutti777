@@ -5,7 +5,7 @@
 <p align="center">
   👩🏻‍💻 sou estudante do terceiro ano de ciência da computação na uenp  <br>
   🫀 apaixonada por tecnologia e a forma como ela pode ajudar as pessoas <br>
-  📚 atualmente me aprimorando em <b>c</b>, <b>python</b>, <b>java</b>> e <b>desenvolvimento web no geral</b>
+  📚 atualmente me aprimorando em <b>c</b>, <b>python</b>, <b>java</b> e <b>desenvolvimento web no geral</b>
 </p>
 
 ## ⚙️ github stats
